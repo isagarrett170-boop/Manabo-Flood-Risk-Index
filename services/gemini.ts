@@ -1,14 +1,14 @@
 import { GoogleGenAI } from "@google/genai";
 import { THESIS_CONTEXT } from '../constants';
 
+// The API Key is injected via vite.config.ts define for client-side usage
 const apiKey = process.env.API_KEY || '';
-// Note: In a real app, we handle the empty API key case gracefully in the UI.
 
 const ai = new GoogleGenAI({ apiKey });
 
 export const sendMessageToGemini = async (message: string): Promise<string> => {
   if (!apiKey) {
-    return "API Key is missing. Please set the REACT_APP_GEMINI_API_KEY environment variable.";
+    return "API Key is missing. Please set the 'API_KEY' environment variable in your Netlify or Vercel project settings.";
   }
 
   try {

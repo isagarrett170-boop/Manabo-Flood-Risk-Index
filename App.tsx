@@ -23,7 +23,7 @@ const App: React.FC = () => {
             Researchers: Benedito, Duran, Pasal, Tadeo, Tulan.
           </p>
           <p className="text-xs mt-8 opacity-50">
-            Disclaimer: This is a digital representation of the thesis presentation. Data is based on the provided documentation.
+            Disclaimer: This is a digital representation of the findings.
           </p>
         </div>
       </footer>

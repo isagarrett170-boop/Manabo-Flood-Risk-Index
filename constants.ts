@@ -298,6 +298,72 @@ ALWAYS quote the exact number (e.g., "0.766") and the rating (e.g., "High").
 
 ---
 
+**COMMUNITY AWARENESS & PREPAREDNESS SURVEY RESULTS**
+*Scale: 1.00-1.80 (Not Aware), 1.81-2.60 (Slightly), 2.61-3.40 (Moderately), 3.41-4.20 (Highly), 4.21-5.00 (Very Highly)*
+
+**1. HAZARD AWARENESS (Overall Mean: 3.73 - Highly Aware)**
+*   "Frequency of floods is increasing": 4.05 (Highest)
+*   "Aware of potential causes": 3.90
+*   "Understand warning signs": 3.75
+*   "Floods are a serious hazard": 3.61
+*   "Can identify flaws in civil designs": 3.36 (Lowest - Moderate)
+
+**2. VULNERABILITY AWARENESS (Overall Mean: 3.17 - Moderately Aware)**
+*   "Understand health/safety impacts": 4.14 (Highest)
+*   "Home is adequately equipped": 4.00
+*   "Certain groups (elderly/poor) more at risk": 3.04
+*   "Infrastructure is vulnerable": 2.58
+*   "My household is vulnerable": 2.08 (Lowest - Slightly Aware) -> *Critical Finding: Optimism Bias*
+
+**3. EXPOSURE AWARENESS (Overall Mean: 2.67 - Moderately Aware)**
+*   "Understand climate change impacts": 4.22 (Highest)
+*   "Concerned about property value": 4.10
+*   "Believe I live in flood-prone area": 1.88
+*   "Aware of number of people affected": 1.58
+*   "Taken steps to assess exposure": 1.55 (Lowest - Not Aware)
+
+**4. SOFT COUNTERMEASURES AWARENESS (Overall Mean: 4.15 - Highly Aware)**
+*   "Community education programs important": 4.35 (Highest)
+*   "Engaging in community planning essential": 4.31
+*   "Public awareness campaigns effective": 4.28
+*   "Informed about evacuation plans": 4.25
+*   "Improving community ties helps": 3.38 (Lowest - Moderate)
+
+**5. HARD COUNTERMEASURES AWARENESS (Overall Mean: 3.78 - Highly Aware)**
+*   "Building codes adequately account for risk": 4.05 (Highest)
+*   "Drain maintenance enough": 3.99
+*   "More funding priority": 3.81
+*   "Local govt engineering effective": 3.60
+*   "Govt investments (levees/dams) necessary": 3.47 (Lowest)
+
+---
+
+**MAP ACCEPTABILITY SURVEY RESULTS**
+*Scale: 1-5 (Not Acceptable to Very Highly Acceptable)*
+
+**1. ACCURACY (Overall Mean: 4.04 - Highly Acceptable)**
+*   "Risk index values correct/realistic": 4.20 (Highest)
+*   "Geographic locations accurate": 4.00
+*   "Data precisely measured": 4.00
+*   "Prone barangays correctly mapped": 4.00
+*   "Minimal plotting errors": 4.00
+
+**2. CONTENT (Overall Mean: 4.08 - Highly Acceptable)**
+*   "All barangays included": 4.40 (Highest)
+*   "Comprehensive info presented": 4.20
+*   "Soft/Hard countermeasures integrated": 4.00
+*   "Recommendations provided": 4.00
+*   "Content complete/organized": 3.80 (Lowest)
+
+**3. USEFULNESS (Overall Mean: 3.96 - Highly Acceptable)**
+*   "Helpful for identifying high-risk areas": 4.00
+*   "Useful for emergency preparedness": 4.00
+*   "Increases community awareness": 4.00
+*   "Reliable reference for mitigation": 4.00
+*   "Guide DRR planning": 3.80 (Lowest)
+
+---
+
 **SUPPORTING RAW DATA (Use only for context, not for Index values)**
 
 *   **Raw Hazard Data:** Luzong (Depth 3m, Freq 5/5yrs), Ayyeng (Depth 1m).
@@ -310,3 +376,12 @@ ALWAYS quote the exact number (e.g., "0.766") and the rating (e.g., "High").
 - **Researchers:** Benedito, Duran, Pasal, Tadeo, Tulan.
 - **Key Findings:** Luzong is the most critical area. There is a municipality-wide gap in Flood Education (SCI) and a lack of structural defenses (HCI) in high-risk areas like Sto. Tomas.
 `;
+
+export const SECTIONS_DATA = {
+    FRI: FRI_DATA,
+    HCI: HCI_DATA,
+    SCI: SCI_DATA,
+    Exposure: EXPOSURE_DATA,
+    Vulnerability: VULNERABILITY_DATA,
+    Hazard: HAZARD_DATA
+};

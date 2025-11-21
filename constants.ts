@@ -299,73 +299,82 @@ ALWAYS quote the exact number (e.g., "0.766") and the rating (e.g., "High").
 ---
 
 **COMMUNITY AWARENESS & PREPAREDNESS SURVEY RESULTS**
-*Scale: 1.00-1.80 (Not Aware), 1.81-2.60 (Slightly), 2.61-3.40 (Moderately), 3.41-4.20 (Highly), 4.21-5.00 (Very Highly)*
+*Descriptive Level Legend:*
+*   4.21 – 5.00: Very Highly Aware/Prepared
+*   3.41 – 4.20: Highly Aware/Prepared
+*   2.61 – 3.40: Moderately Aware/Prepared
+*   1.81 – 2.60: Slightly Aware/Prepared
+*   1.00 – 1.80: Not Aware/Prepared
 
-**1. HAZARD AWARENESS (Overall Mean: 3.73 - Highly Aware)**
-*   "Frequency of floods is increasing": 4.05 (Highest)
-*   "Aware of potential causes": 3.90
-*   "Understand warning signs": 3.75
-*   "Floods are a serious hazard": 3.61
-*   "Can identify flaws in civil designs": 3.36 (Lowest - Moderate)
+**Table 1.1: HAZARD AWARENESS (Overall Mean: 3.73 - Highly Aware/Prepared)**
+1.  "I believe that floods are a serious hazard in my area.": **3.61** (Highly Aware)
+2.  "I am aware of the potential causes of flooding (e.g., heavy rainfall, dam failure).": **3.90** (Highly Aware)
+3.  "I think the frequency of floods in my region is increasing.": **4.05** (Highly Aware)
+4.  "I understand the warning signs that indicate a possible flood threat.": **3.75** (Highly Aware)
+5.  "I can identify flaws and suggest improvements in civil designs. I feel confident in understanding the flood zones in my local area.": **3.36** (Moderately Aware)
 
-**2. VULNERABILITY AWARENESS (Overall Mean: 3.17 - Moderately Aware)**
-*   "Understand health/safety impacts": 4.14 (Highest)
-*   "Home is adequately equipped": 4.00
-*   "Certain groups (elderly/poor) more at risk": 3.04
-*   "Infrastructure is vulnerable": 2.58
-*   "My household is vulnerable": 2.08 (Lowest - Slightly Aware) -> *Critical Finding: Optimism Bias*
+**Table 1.2: VULNERABILITY AWARENESS (Overall Mean: 3.17 - Moderately Aware/Prepared)**
+6.  "I believe that my household is vulnerable to flooding.": **2.08** (Slightly Aware) *Critical Finding: Optimism Bias*
+7.  "I think certain community groups (e.g., elderly, low-income families) are more at risk during floods.": **3.04** (Moderately Aware)
+8.  "I feel my home is adequately equipped to handle a flood event.": **4.00** (Highly Aware)
+9.  "I understand the potential impacts of flooding on my health and safety.": **4.14** (Highly Aware)
+10. "I think the infrastructure in my neighborhood is vulnerable to floods (e.g., roads, and bridges).": **2.58** (Slightly Aware)
 
-**3. EXPOSURE AWARENESS (Overall Mean: 2.67 - Moderately Aware)**
-*   "Understand climate change impacts": 4.22 (Highest)
-*   "Concerned about property value": 4.10
-*   "Believe I live in flood-prone area": 1.88
-*   "Aware of number of people affected": 1.58
-*   "Taken steps to assess exposure": 1.55 (Lowest - Not Aware)
+**Table 1.3: EXPOSURE AWARENESS (Overall Mean: 2.67 - Moderately Aware/Prepared)**
+11. "I believe that I live in a flood-prone area.": **1.88** (Slightly Aware)
+12. "I am aware of the number of people in my community who could be affected by flooding.": **1.58** (Not Aware)
+13. "I have taken steps to assess my exposure to flood risk.": **1.55** (Not Aware)
+14. "I understand how climate change may affect future flooding conditions in my area.": **4.22** (Very Highly Aware)
+15. "I am concerned about the impact of flood exposure on my property value.": **4.10** (Highly Aware)
 
-**4. SOFT COUNTERMEASURES AWARENESS (Overall Mean: 4.15 - Highly Aware)**
-*   "Community education programs important": 4.35 (Highest)
-*   "Engaging in community planning essential": 4.31
-*   "Public awareness campaigns effective": 4.28
-*   "Informed about evacuation plans": 4.25
-*   "Improving community ties helps": 3.38 (Lowest - Moderate)
+**Table 1.4: SOFT COUNTERMEASURES AWARENESS (Overall Mean: 4.15 - Highly Aware/Prepared)**
+16. "I believe that community education programs on flood awareness are important.": **4.35** (Very Highly Aware)
+17. "I feel informed about evacuation plans and procedures in case of a flood.": **4.25** (Very Highly Aware)
+18. "I think that improving community ties and networks will help us better prepare for floods.": **3.38** (Moderately Aware)
+19. "I believe public awareness campaigns effectively inform people about flood risks.": **4.28** (Very Highly Aware)
+20. "I think that engaging in community planning for flood disasters is essential.": **4.31** (Very Highly Aware)
 
-**5. HARD COUNTERMEASURES AWARENESS (Overall Mean: 3.78 - Highly Aware)**
-*   "Building codes adequately account for risk": 4.05 (Highest)
-*   "Drain maintenance enough": 3.99
-*   "More funding priority": 3.81
-*   "Local govt engineering effective": 3.60
-*   "Govt investments (levees/dams) necessary": 3.47 (Lowest)
+**Table 1.5: HARD COUNTERMEASURES AWARENESS (Overall Mean: 3.78 - Highly Aware/Prepared)**
+21. "I believe that government investments in flood defense infrastructure (e.g., levees, and dams) are necessary.": **3.47** (Highly Aware)
+22. "I think my local government has effectively put in place engineering solutions to mitigate flood risks.": **3.60** (Highly Aware)
+23. "I feel that building codes in my area adequately account for flood risks.": **4.05** (Highly Aware)
+24. "I believe that the maintenance of drain systems is enough to prevent flooding.": **3.99** (Highly Aware)
+25. "I think that more funding for flood prevention infrastructure should be a priority for local authorities.": **3.81** (Highly Aware)
 
 ---
 
-**MAP ACCEPTABILITY SURVEY RESULTS**
-*Scale: 1-5 (Not Acceptable to Very Highly Acceptable)*
+**MAP ACCEPTABILITY SURVEY RESULTS (Evaluation)**
+*Descriptive Level Legend:*
+*   4.21 – 5.00: Very Highly Acceptable
+*   3.41 – 4.20: Highly Acceptable
+*   2.61 – 3.40: Moderately Acceptable
+*   1.81 – 2.60: Slightly Acceptable
+*   1.00 – 1.80: Not Acceptable
 
-**1. ACCURACY (Overall Mean: 4.04 - Highly Acceptable)**
-*   "Risk index values correct/realistic": 4.20 (Highest)
-*   "Geographic locations accurate": 4.00
-*   "Data precisely measured": 4.00
-*   "Prone barangays correctly mapped": 4.00
-*   "Minimal plotting errors": 4.00
+**Table 4.1: ACCURACY (Overall Mean: 4.04 - Highly Acceptable)**
+1.  "The flood risk index values assigned to barangays are correct and realistic.": **4.20** (Very Highly Acceptable)
+2.  "The geographic locations of barangays are accurately represented.": **4.00** (Highly Acceptable)
+3.  "The hazard, vulnerability, and exposure data are precisely measured.": **4.00** (Highly Acceptable)
+4.  "The barangays most prone to flooding are correctly mapped.": **4.00** (Highly Acceptable)
+5.  "Data plotting and map analysis show minimal errors.": **4.00** (Highly Acceptable)
 
-**2. CONTENT (Overall Mean: 4.08 - Highly Acceptable)**
-*   "All barangays included": 4.40 (Highest)
-*   "Comprehensive info presented": 4.20
-*   "Soft/Hard countermeasures integrated": 4.00
-*   "Recommendations provided": 4.00
-*   "Content complete/organized": 3.80 (Lowest)
+**Table 4.2: CONTENT (Overall Mean: 4.08 - Highly Acceptable)**
+6.  "All barangays in Manabo, Abra are included in the mapping.": **4.40** (Very Highly Acceptable)
+7.  "The mapping presents comprehensive hazard, vulnerability, and exposure information.": **4.20** (Very Highly Acceptable)
+8.  "Both soft and hard countermeasures are integrated into the map.": **4.00** (Highly Acceptable)
+9.  "Essential recommendations for flood risk management are provided.": **4.00** (Highly Acceptable)
+10. "The content is complete, organized, and easy to interpret.": **3.80** (Highly Acceptable)
 
-**3. USEFULNESS (Overall Mean: 3.96 - Highly Acceptable)**
-*   "Helpful for identifying high-risk areas": 4.00
-*   "Useful for emergency preparedness": 4.00
-*   "Increases community awareness": 4.00
-*   "Reliable reference for mitigation": 4.00
-*   "Guide DRR planning": 3.80 (Lowest)
+**Table 4.3: USEFULNESS (Overall Mean: 3.96 - Highly Acceptable)**
+11. "The map can guide disaster risk reduction planning in Manabo, Abra.": **3.80** (Highly Acceptable)
+12. "The updated mapping is helpful for identifying high-risk areas and prioritizing interventions.": **4.00** (Highly Acceptable)
+13. "Stakeholders can use the map for emergency preparedness and response strategies.": **4.00** (Highly Acceptable)
+14. "The updated mapping increases community awareness and understanding of flood risks.": **4.00** (Highly Acceptable)
+15. "The information can be used as a reliable reference for future flood mitigation projects.": **4.00** (Highly Acceptable)
 
 ---
 
 **SUPPORTING RAW DATA (Use only for context, not for Index values)**
-
 *   **Raw Hazard Data:** Luzong (Depth 3m, Freq 5/5yrs), Ayyeng (Depth 1m).
 *   **Raw Vulnerability Data:** Catacdegan Viejo highest density (19,958 p/km²). San Juan Norte highest poverty (4.45%).
 *   **Raw Exposure Data:** Catacdegan Nuevo (96.14% Area Exposed). Luzong (100% Infra in risk zone).
